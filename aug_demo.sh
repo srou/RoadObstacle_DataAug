@@ -1,0 +1,1 @@
+python2 dataset_generator.py --num=1 ./demo_data_dir ./output_dir

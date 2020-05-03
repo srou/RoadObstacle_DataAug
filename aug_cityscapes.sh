@@ -1,0 +1,1 @@
+python2 dataset_generator.py --num=1 ./input_dir_cityscapes_rgbd ./output_dir_cityscapes_rgbd --target_size_bins 0,40000,4,0,40,45,47 --id_start 0 #--target_size_bins 0,40000,4,250,250,250,250 --id_start 0
