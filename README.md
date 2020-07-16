@@ -138,4 +138,4 @@ The code produces all the files required to train an object detector. The format
 To include other classes (eg : car) in the the labels, use Add Cityscapes annotations.ipynb : by default, the resulting .txt annotation file will be generated in ./output_dir_cityscapes_rgbd/annotations_twoclasses_txt/annotations_twoclasses.txt
     
 ## Paper
-Our work is based on [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/abs/1708.01642) and the author's repository : https://github.com/debidatta/syndata-generation.
+This work is based on [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/abs/1708.01642) and the author's repository : https://github.com/debidatta/syndata-generation.
